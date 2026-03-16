@@ -22,7 +22,7 @@ OPENAI_MODEL=gpt-4o-mini
 3. Start the dev server:
 
 ```bash
-pnpm dev
+corepack pnpm dev
 ```
 
 If `pnpm` is not installed globally, you can usually enable it through Corepack:
